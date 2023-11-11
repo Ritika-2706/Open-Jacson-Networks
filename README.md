@@ -23,6 +23,7 @@ Visual components and Python
 
 
 ## Program
+```
 DEVELOPED BY : RITIKA S
 REGISTER NO : 212221240046
 
@@ -63,7 +64,7 @@ if (lam <  mu1) and (lam <  mu2) and (lam <  mu3):
 else:
     print("Warning! Objects Over flow will happen in the conveyor")
 print("----------------------------------------------------------------------")
-
+```
 ## Output
 ![image](https://github.com/Ritika-2706/Open-Jacson-Networks/assets/93427238/db7f9164-da40-42e4-a363-74db3735af86)
 
